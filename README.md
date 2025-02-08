@@ -2,4 +2,4 @@
 
 ## Section 1 - Introduction 1 
 
-#### Section 1 - Architection
+#### Section 1 - Architecture
